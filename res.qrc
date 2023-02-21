@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/next.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/save.png</file>
+        <file>icon/saveas.png</file>
+        <file>icon/open.png</file>
+        <file>icon/zoomin.png</file>
+        <file>icon/zoomout.png</file>
+        <file>icon/close.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/rotate_left.png</file>
+        <file>icon/rotate_right.png</file>
+        <file>icon/genericapp.png</file>
+        <file>icon/move-object.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/settings.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/paste.png</file>
+        <file>icon/cut.png</file>
+        <file>icon/resize.png</file>
+        <file>icon/lock.png</file>
+        <file>icon/unlock.png</file>
+        <file>icon/qimageview.png</file>
+    </qresource>
+</RCC>
